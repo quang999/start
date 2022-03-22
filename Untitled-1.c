@@ -16,10 +16,10 @@ sbit STEP_Z  = P1^5;
 
 kjbjhbjh
 kmnkjnj
-km,jmnm
+km,jmnm1111111111111111111111111111111111111
 kjnnji
 inuuni
 iijnm
 p,.l
-ôkoko
+Ã´koko
 kk
