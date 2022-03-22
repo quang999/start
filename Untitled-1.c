@@ -13,3 +13,7 @@ sbit DIR_X   = P2^7;
 sbit BUT     = P0^2;
 sbit LED     = P0^4;
 sbit STEP_Z  = P1^5;
+
+kjbjhbjh
+kmnkjnj
+km,jmnm
